@@ -1,0 +1,11 @@
+# IDE
+.vscode
+.idea
+
+# Composer
+vendor
+
+# Dev
+index.php
+cache
+templates

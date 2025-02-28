@@ -1,0 +1,19 @@
+{
+    "name": "geekmusclay/template",
+    "description": "Lightweight templating package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Geekmusclay\\Template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GeekMusclay",
+            "email": "contact@geekmusclay.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
